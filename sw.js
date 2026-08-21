@@ -1,4 +1,4 @@
-const CACHE_NAME = "ai-control-center-shell-v1";
+const CACHE_NAME = "ai-control-center-shell-v2";
 const APP_SHELL = ["./", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
