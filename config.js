@@ -1,5 +1,5 @@
 // Public runtime configuration for GitHub Pages. Do not put secrets in this file.
-// After publishing the secure backend, replace the empty string with its HTTPS origin.
+// HTTPS secure backend origin. This value is public and contains no credential.
 window.__AI_CONTROL_CONFIG__ = {
-  apiBaseUrl: "",
+  apiBaseUrl: "https://aicontrol-5yaeqhs8.manus.space",
 };
