@@ -1,0 +1,10 @@
+{
+  "name": "AI Control Center",
+  "short_name": "AI Control",
+  "description": "A secure AI orchestration and workspace control center.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eef6",
+  "theme_color": "#11213d"
+}
